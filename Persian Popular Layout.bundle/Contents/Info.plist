@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout</string>
+	<key>CFBundleName</key>
+	<string>Persian Popular Layout</string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>KLInfo_Persian - Universal</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-universal</string>
+		<key>TISIntendedLanguage</key>
+		<string>fa-IR</string>
+	</dict>
+	<key>KLInfo_Persian - Win layout</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-winlayout</string>
+		<key>TISIntendedLanguage</key>
+		<string>fa-IR</string>
+	</dict>
+</dict>
+</plist>
