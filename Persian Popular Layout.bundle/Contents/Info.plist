@@ -19,17 +19,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>fa-IR</string>
 	</dict>
-	<key>KLInfo_Persian - Win layout</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<true/>
-		<key>TISIconIsTemplate</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-winlayout</string>
-		<key>TISIntendedLanguage</key>
-		<string>fa-IR</string>
-	</dict>
 	<key>KLInfo_Persian - Western Numbers</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -38,6 +27,17 @@
 		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-westernnumbers</string>
+		<key>TISIntendedLanguage</key>
+		<string>fa-IR</string>
+	</dict>
+	<key>KLInfo_Persian - Win layout</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-winlayout</string>
 		<key>TISIntendedLanguage</key>
 		<string>fa-IR</string>
 	</dict>

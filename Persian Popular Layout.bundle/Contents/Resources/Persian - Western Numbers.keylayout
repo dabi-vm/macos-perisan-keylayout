@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 396 on 2024-12-13 at 17:43 (GMT+3:30)-->
+<!--Last edited by Ukelele version 396 on 2025-01-08 at 10:57 (GMT+3:30)-->
 <keyboard group="126" id="-6691" name="Persian - Western Numbers" maxout="4">
     <layouts>
         <layout first="0" last="0" mapSet="a8" modifiers="30"/>
@@ -753,11 +753,11 @@
             <key code="39" output="گ"/>
             <key code="40" output="ن"/>
             <key code="41" output="ک"/>
-            <key code="42" output="پ"/>
+            <key code="42" output="\"/>
             <key code="43" output="و"/>
             <key code="44" output="/"/>
             <key code="45" output="د"/>
-            <key code="46" output="ئ"/>
+            <key code="46" output="پ"/>
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
