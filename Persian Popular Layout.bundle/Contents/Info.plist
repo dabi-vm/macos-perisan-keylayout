@@ -13,7 +13,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISIconIsTemplate</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-universal</string>
 		<key>TISIntendedLanguage</key>
@@ -24,7 +24,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISIconIsTemplate</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-westernnumbers</string>
 		<key>TISIntendedLanguage</key>
@@ -35,7 +35,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISIconIsTemplate</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.persiankeyboardlayout.persian-winlayout</string>
 		<key>TISIntendedLanguage</key>
